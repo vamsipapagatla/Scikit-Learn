@@ -1,6 +1,3 @@
-# Scikit-Learn
-My projects that I have created using Jupyter Notebooks and Google Collab.
-
 # California Housing Price Prediction
 
 ## Overview
